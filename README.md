@@ -1,2 +1,2 @@
 # smartkrohit.github.io
-This is simple website for project
+This is my resume
